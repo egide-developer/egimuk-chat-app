@@ -1,0 +1,8 @@
+{
+  "name": "Nexus Social",
+  "description": "A premium social chat application blending the best of messaging and social feeds. Features real-time chat with AI integration, dynamic feeds, stories, reels, and a customizable sleek UI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
